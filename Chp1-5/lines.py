@@ -8,3 +8,12 @@ x, y, z = 1, 2, 3
 print(x)
 print(y)
 print(z)
+
+MAX = 100
+MIN = 1
+
+# USING NUMBER TO GET 8
+print(5 + 3)
+print(10 - 2)
+print(2 * 4)
+print(64 / 8)
